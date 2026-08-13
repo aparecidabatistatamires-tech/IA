@@ -1,0 +1,22 @@
+:root{
+   --cor-fundo: #01080E; 
+   --cor-principal: #0b0D20 ;
+   --cor-secundaria: #212333;
+   --cor-destaque: #2BDEFD;
+   --cor-texto: #D7F977;
+
+}
+
+body {
+    background-color: var(--cor-fundo);
+    color: var(--cor-texto)
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+}
+
+.caixa-principal{
+
+}
+6;16 video
